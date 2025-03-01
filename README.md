@@ -28,8 +28,8 @@ Our team is made up of four dedicated members: Raven, our founder and the primar
 Feel free to reach out to us via Twitter DM or email us at hey@cloaker.bot
 # Products
 Cloaker / Cloakerbot<br>
-Social Media Platform: X - <a data-fr-linked="true" href="https://x.com/cloakerbot">x.com/cloakerbot</a>
-Wesbite: https://www.cloaker.bot
+Social Media Platform: X - <a data-fr-linked="true" href="https://x.com/cloakerbot">x.com/cloakerbot</a><br>
+Website: https://www.cloaker.bot
 
 
 
